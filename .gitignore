@@ -27,3 +27,15 @@ ArtImages/.idea/misc.xml
 ArtImages/.idea/jarRepositories.xml
 ArtImages/.idea/gradle.xml
 ArtImages/.idea/compiler.xml
+Contacts/.idea/compiler.xml
+Contacts/.idea/gradle.xml
+Contacts/.idea/jarRepositories.xml
+Contacts/.idea/misc.xml
+Contacts/.idea/render.experimental.xml
+Contacts/app/proguard-rules.pro
+Contacts/gradle.properties
+Contacts/gradle/wrapper/gradle-wrapper.jar
+Contacts/gradle/wrapper/gradle-wrapper.properties
+Contacts/gradlew
+Contacts/gradlew.bat
+Contacts/settings.gradle
