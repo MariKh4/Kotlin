@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="user">USER</string>
+    <string name="_0">0</string>
+</resources>

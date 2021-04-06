@@ -39,3 +39,15 @@ Contacts/gradle/wrapper/gradle-wrapper.properties
 Contacts/gradlew
 Contacts/gradlew.bat
 Contacts/settings.gradle
+Fragments/.idea/compiler.xml
+Fragments/.idea/gradle.xml
+Fragments/.idea/jarRepositories.xml
+Fragments/.idea/misc.xml
+Fragments/.idea/render.experimental.xml
+Fragments/app/proguard-rules.pro
+Fragments/gradle.properties
+Fragments/gradle/wrapper/gradle-wrapper.jar
+Fragments/gradle/wrapper/gradle-wrapper.properties
+Fragments/gradlew
+Fragments/gradlew.bat
+Fragments/settings.gradle
