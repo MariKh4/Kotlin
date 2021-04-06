@@ -14,3 +14,16 @@ Calculator/.idea/jarRepositories.xml
 Calculator/.idea/gradle.xml
 Calculator/.idea/compiler.xml
 Calculator/.idea/codeStyles/Project.xml
+ArtImages/gradle.properties
+ArtImages/gradle/wrapper/gradle-wrapper.jar
+ArtImages/gradle/wrapper/gradle-wrapper.properties
+ArtImages/gradlew
+ArtImages/gradlew.bat
+ArtImages/settings.gradle
+ArtImages/app/src/test/java/com/marikh/artimages/ExampleUnitTest.kt
+ArtImages/app/proguard-rules.pro
+ArtImages/.idea/render.experimental.xml
+ArtImages/.idea/misc.xml
+ArtImages/.idea/jarRepositories.xml
+ArtImages/.idea/gradle.xml
+ArtImages/.idea/compiler.xml

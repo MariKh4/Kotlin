@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArtImages</string>
+    <string name="image_description">Image Description</string>
+    <string name="search_number_page">Search number page...</string>
+</resources>
